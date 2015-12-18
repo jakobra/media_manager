@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Jakobra Industries');
+  res.send('Media manager');
 });
 
 var server = app.listen(3600, function () {
