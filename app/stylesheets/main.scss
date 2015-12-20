@@ -1,0 +1,14 @@
+/*
+ *= require_self
+*/
+
+body {
+	background-color: red;
+
+	.content {
+		margin: 2% auto;
+		width: 80%;
+		border: 1px solid blue;
+		padding: 2%;
+	}
+}
